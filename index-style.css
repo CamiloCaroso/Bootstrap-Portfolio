@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+
+
+#bold {
+    margin-top: 40px;
+}
+
+
+
+#bold {
+    font-weight: bold;
+}
+
+.container {
+    background: #fefefe;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+#p1 {
+   padding-top: 40px; 
+}
